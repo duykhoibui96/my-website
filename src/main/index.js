@@ -25,7 +25,6 @@ const Logo = styled.img`
 `;
 
 const Menu = styled.div`
-  background: black;
   border-bottom: 1px solid white;
   width: 100%;
 
